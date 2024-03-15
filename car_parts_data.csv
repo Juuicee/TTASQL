@@ -1,601 +1,301 @@
-Part ID,Car Type,Brand,Car Part,Weight (kg),Number of Parts,Part Cost
-42151880,Van,Aston Martin,Transmission Control Module,5,3,9622.61
-68199773,Sedan,Maserati,Fuel Injector,5,1,5770.11
-25741248,Hatchback,Smart,Rack and Pinion,15,10,8276.8
-66674592,Grand Tourer,Ram,Ignition System,10,10,4504.5
-19814845,Armored Car,Cadillac,Airbag Control Module,5,5,9589.03
-47021607,Buggy,Chrysler,Steering Shaft,10,9,5072.81
-38088449,Pickup Truck,Infiniti,Control Arms,15,1,6441.31
-65080579,Roadster,Maserati,Tires,25,7,7506.87
-10088485,Sedan,Lamborghini,Spark Plugs,5,4,3303.62
-78221200,Compact SUV,Smart,Power Steering Fluid,5,8,4142.44
-26528574,Estate Car,Chrysler,Spindle Seal,0,7,6624.3
-36204795,Grand Tourer,Volkswagen,Interior,50,2,9560.18
-29924581,Sports Car,Hyundai,Windows,30,7,5991.71
-30404347,Grand Tourer,Cadillac,Fuel Injector,5,7,7243.94
-55319861,Minivan,Land Rover,Brake Calipers,10,9,7205.92
-95533409,Crossover,Nissan,Pistons,15,6,5074.63
-54962968,Concept Car,Bentley,Power Door Locks,20,6,6357.51
-57117191,City Car,Mazda,Windshield Wipers,5,1,7192.08
-78133867,Hybrid Car,Honda,Water Pump,10,3,6427.42
-80862534,Electric Vehicle (EV),Land Rover,Emblems/Badges,5,7,8522.37
-60963844,Amphibious Vehicle,Ferrari,Wheels,20,2,8715.17
-28452811,Ambulance,Chevrolet,Tire Plug,5,3,7846.31
-80345634,Grand Tourer,McLaren,Chassis Reinforcements,30,2,3723.33
-78640606,Amphibious Vehicle,Infiniti,Safety Features,50,6,3741.38
-74692204,Armored Car,Porsche,Door Handles,5,6,3558.82
-25015039,Minivan,Aston Martin,Sway Bars,10,8,5172.5
-62811944,Pickup Truck,MINI,Drag Link,10,3,3759.48
-39963524,Sports Car,Scion,Wheel Bearings,10,8,8663.94
-89476940,Compact SUV,Oldsmobile,Fan Belt,5,5,3582.12
-75057323,City Car,Chrysler,Thermostat,5,4,9892.68
-78049515,Buggy,Mitsubishi,Tire Plug Tool,5,10,8488.49
-18033945,Hot Hatch,Mazda,Stub Axle,0,1,7037.63
-66160150,Hearse,Chevrolet,Camshaft,10,9,4475.94
-44186101,Luxury Car,Mitsubishi,Wheel Balancer,10,6,8980.83
-41481835,Electric SUV,Lexus,Transmission Control Module,5,8,8469.16
-23520424,Van,Honda,Windows,30,9,3606.53
-72491345,Vintage Car,Bentley,Spindle Nut,0,9,4988.23
-62360219,Microcar,Smart,Electrical System,25,7,3734.01
-22494539,Pickup Truck,Mitsubishi,Spindle Nut,0,3,8860.97
-20919528,Police Car,Audi,Parking Brake Cable,5,10,7940.05
-13932269,Estate Car,Land Rover,Tire Plug Tool,5,6,4559.31
-24960934,Electric Vehicle (EV),Subaru,Brake Lines,5,2,3073.5
-82110237,Convertible,Hyundai,Power Steering Hoses,5,5,6695.34
-21758578,Convertible,Cadillac,Fuel Lines,10,6,9928.2
-36165771,Grand Tourer,Scion,CV Boots,5,9,4175.42
-33861051,Coupe,Buick,Brake Booster,10,1,3904.97
-66488876,Subcompact Car,Lincoln,Shock Absorbers,10,5,5888.83
-53268969,Coupe,Land Rover,Intake Manifold,10,3,8646.45
-97428839,Electric SUV,BMW,Fuel Pump,10,2,7651.52
-92448832,Hearse,Maserati,Connecting Rods,10,1,5261.29
-57940943,Off-Road Vehicle,Bentley,Throttle Position Sensor,5,6,8609.49
-51501806,Compact Pickup Truck,Smart,Hub Bearings,10,10,8368.91
-50215330,Muscle Car,Infiniti,Resonator,5,4,7533.98
-37058878,Tow Truck,Smart,Power Steering Fluid,5,1,5147.54
-95342798,Electric SUV,Pontiac,Muffler,10,2,5819.06
-83398610,Electric Pickup Truck,Aston Martin,U-Joints,5,7,6434.08
-56588727,Sports Car,Chevrolet,Pinion Seal,5,1,6026.47
-16898591,Garbage Truck,Porsche,Sway Bars,10,3,3520.25
-72436300,Ice Cream Truck,Tesla,Halfshafts,15,3,6205.98
-69796699,Grand Tourer,Lotus,Intake Manifold,10,9,8374.94
-31463121,Ice Cream Truck,Porsche,Brake Rotors,10,1,4850.85
-42371331,Minivan,Porsche,Valve Cover,5,2,4600.52
-81158706,Sedan,Polestar,CV Joints,10,3,7238.75
-67341799,Taxi,Subaru,Stub Axle,0,10,7072.74
-22198653,Hybrid Car,Chrysler,Lug Wrench,5,10,9198.04
-34848041,Police Car,Karma,Wheels,20,9,6088.28
-32841165,Full-Size SUV,Fiat,Glove Compartment,10,3,7690.75
-43064324,Van,Land Rover,Fuel Filter,5,3,5853.61
-75907089,4x4,Cadillac,Wheel Center Cap,5,10,7225.89
-40493462,Crossover,Rolls-Royce,Flywheel,15,4,3662.88
-68372056,Limousine,Mercedes-Benz,Emblems/Badges,5,8,7991.41
-25214610,Executive Car,Smart,Tailpipe,5,8,7316.76
-62667171,Grand Tourer,Cadillac,Tire Patch Cement,5,2,3209.76
-78660527,Grand Tourer,Land Rover,Dashboard Controls,15,2,7313.7
-96739151,Convertible,Tesla,Chassis Stiffeners,15,5,7768.09
-36534174,Compact Pickup Truck,Chrysler,Tie Rods,10,10,7071.84
-45977131,Police Car,Audi,USB Ports,5,5,8612.33
-70637803,Sedan,Kia,ABS Control Module,10,1,5316.18
-94426484,Concept Car,Acura,Rack and Pinion,15,7,5925.3
-54500465,Compact Car,BMW,Fuel Injector,5,8,6904.3
-77859703,Crossover,Jeep,Spindle Bearings,0,3,5043.17
-91631900,Amphibious Vehicle,Buick,ABS Pump,10,7,8934.68
-10584673,Hatchback,Mercedes-Benz,Brake Booster,10,10,8981.22
-43445743,Coupe,Koenigsegg,Differential Bearings,10,5,8165.36
-73334277,Coupe,Cadillac,Stability Control,20,1,7630.11
-28484647,Armored Car,Dodge,Hubcap,5,5,6686.97
-32183067,Supercar,Lexus,Seats,70,8,9139.21
-49957453,Full-Size SUV,Polestar,Fuel System,30,5,8537.67
-24214769,Taxi,Audi,Steering Gearbox,20,8,3577.87
-86787890,City Car,Chrysler,Ignition Coil,5,9,9730.92
-91714629,SUV,Mitsubishi,Brake Calipers,10,5,9665.95
-90396845,SUV,Bentley,Trim Pieces,10,4,6504.96
-10055274,Executive Car,Lincoln,Spindle Bearings,0,9,4954.32
-88753387,Grand Tourer,Dodge,Throttle Body,10,3,3136.67
-12378537,Station Wagon,Lexus,Wheel Studs,5,2,9448.02
-96658291,Garbage Truck,Audi,Brake Pads,5,6,5551.71
-91772339,Compact Pickup Truck,Rolls-Royce,Lane Departure Warning,10,3,9730.85
-11604229,Compact Car,Jaguar,Side Skirts,20,5,5105.03
-62017134,City Car,Maybach,Tire Iron,5,8,8068.94
-87114540,Vintage Car,Lotus,Pitman Arm,10,10,7188.02
-64055785,Garbage Truck,Ram,Ignition System,10,10,9454.18
-73205504,Armored Car,Subaru,Tire Jack,10,1,8741.77
-58457143,Commercial Vehicle,MINI,Steering Damper,5,7,9575.94
-62275207,SUV,Lotus,Knock Sensor,5,6,3502.17
-34976890,Amphibious Vehicle,Saturn,Seatbelts,10,5,5924.07
-23149189,Station Wagon,Smart,CV Joints,10,5,4131.13
-58165799,Hatchback,Pontiac,Armrests,10,10,7259.35
-35476857,Fire Truck,Volvo,ABS Control Module,10,3,7932.05
-79226021,Executive Car,Ferrari,Roof,50,7,6508.13
-96076679,Roadster,Fiat,Air Filter,5,8,3149.09
-77730136,Ambulance,Genesis,Hub Seal,5,8,4968.93
-25137715,Full-Size Pickup Truck,Buick,Parking Brake Cable,5,1,5112.29
-36794730,Police Car,Jaguar,Cooling System,30,2,4548.94
-68888361,Station Wagon,Acura,Shocks,10,6,9246.86
-62170213,Electric SUV,Pontiac,Wheel Hubs,10,3,8914.53
-91294681,Armored Car,Tesla,Camshaft Position Sensor,5,2,6431.49
-99075941,Limousine,Karma,Immobilizer,5,4,9360.2
-74149746,Hybrid Car,McLaren,Spark Plug Wires,5,5,9707.34
-71268635,Hot Hatch,Oldsmobile,USB Ports,5,6,6791.91
-78587231,Electric Vehicle (EV),Suzuki,Power Door Locks,20,9,4190.89
-53675980,Vintage Car,Saab,Gearshift,10,9,5832.61
-91852238,Electric Vehicle (EV),Maserati,Steering Knuckle,10,5,3180.55
-36001018,Convertible,Smart,Airbags,20,4,3644.46
-13963106,Luxury SUV,Chevrolet,Tire Repair Kit,10,5,3144.28
-23510293,Compact Car,Infiniti,Wheel Spacer,5,3,7360.25
-28109519,Sedan,McLaren,Oil Filter,5,2,9247.8
-85664980,Amphibious Vehicle,Maserati,Remote Start,15,1,6390.1
-32837489,Off-Road Vehicle,Rolls-Royce,Power Windows,20,3,6664.6
-11311006,Ambulance,Alfa Romeo,Steering Column,10,10,8888.63
-68666819,Roadster,Buick,Water Pump,10,2,6922.72
-91730147,Luxury SUV,Lincoln,Spindle Bushing,0,2,5574.79
-35586111,Subcompact Car,Maserati,Differential Gears,20,6,6312.59
-94303051,Supercar,McLaren,Axle Seals,5,6,8361.57
-21180717,Off-Road Vehicle,Ferrari,Tire Iron,5,10,6121.78
-91341345,Concept Car,Maserati,Wheel Cylinder,5,1,4909.94
-48881567,Minivan,Suzuki,Chassis,200,9,5358.93
-75941431,Full-Size Pickup Truck,Suzuki,Tire Iron,5,2,8026.79
-87947898,Pickup Truck,Pontiac,Valve Cover,5,7,7603.42
-53758783,Ice Cream Truck,McLaren,Breather Filter,5,10,6992.76
-11922328,Armored Car,GMC,Wheel Bearings,10,4,5448.51
-18712319,Van,Saturn,Tire Plug,5,7,3649.58
-29411768,Off-Road Vehicle,Lexus,Gearshift,10,10,8544.69
-98039782,Police Car,Mitsubishi,Tailpipe,5,8,6655.17
-85781510,Convertible,Lexus,Lane Departure Warning,10,7,4595.33
-45958521,Electric Vehicle (EV),Bentley,Center Link,10,7,8140.29
-89320867,Buggy,Hummer,Water Pump,10,4,7038.13
-21281387,Full-Size Pickup Truck,Lotus,Wheel Hubs,10,2,6773.5
-85586437,Compact Pickup Truck,Koenigsegg,Switches,5,7,4676.48
-48336919,Estate Car,Bugatti,Catalytic Converter,15,10,6606.68
-71731681,City Car,Mazda,Emblems/Badges,5,6,4550.32
-66311436,Coupe,Pontiac,Wheel Lugs,5,8,8798.61
-24059723,Grand Tourer,Koenigsegg,Planetary Gearset,20,8,4750.38
-52637180,Concept Car,Fiat,Headliner,15,8,6951.72
-73483831,Family Car,Chrysler,Transmission,75,3,8537.71
-12641406,Electric Pickup Truck,Subaru,Brake Master Cylinder,10,1,3874.41
-49309715,Microcar,Chevrolet,Glove Compartment,10,1,4030.17
-42304250,Sports Car,Lamborghini,Traction Control,20,8,5697.39
-19449966,Vintage Car,Nissan,Knock Sensor,5,2,3084.16
-35347445,Luxury SUV,Koenigsegg,Tailgate,40,2,6228.47
-31957335,Minivan,Lamborghini,Differential Bearings,10,8,6982.05
-36322527,Hearse,Polestar,Differential,30,8,3403.03
-85428097,Armored Car,Aston Martin,Throttle Position Sensor,5,3,4591.34
-91498835,Luxury SUV,Chrysler,Axle Nut,0,9,5037.23
-49245136,Roadster,Kia,Rack and Pinion,15,9,3163.45
-30779421,Van,Ram,Differential,30,5,5734.83
-34486582,Muscle Car,BMW,Brake Rotors,10,4,7254.92
-13511325,Pickup Truck,Ferrari,Wheel Lugs,5,3,3462.97
-39758234,Luxury SUV,Rolls-Royce,Carpeting,20,9,3446.68
-41877863,Buggy,Bentley,Torque Converter,10,6,3814.69
-81468928,Concept Car,Saab,Heated Seats,30,10,6943.23
-81657576,Station Wagon,Hummer,Pinion Seal,5,5,8004.78
-17393813,Compact Car,Genesis,Auxiliary Input,5,2,7883.11
-11025467,Commercial Vehicle,Mercedes-Benz,Sway Bars,10,7,7725.44
-66865344,Crossover,Subaru,Engine,200,2,8072.32
-44327629,Ice Cream Truck,Scion,Shock Absorbers,10,4,4436.4
-78201804,Supercar,Genesis,Stability Control,20,3,3129.89
-72628273,Ice Cream Truck,Rolls-Royce,Intake Manifold,10,4,9879.78
-18352550,Compact SUV,Tesla,Wheel Bearings,10,8,8654.54
-88939575,Station Wagon,Audi,Steering Damper,5,2,9959.11
-99816461,City Car,Suzuki,Steering Wheel,15,6,6044.6
-22693162,Luxury Car,Toyota,Tailpipe,5,2,7606.46
-85512255,Tow Truck,Jeep,Throw-out Bearing,5,10,7482.65
-82031936,Grand Tourer,McLaren,Exterior Lights,10,8,8127.61
-68417464,Luxury Car,Infiniti,Ignition Control Module,5,6,6844.72
-97922920,Hybrid Car,Oldsmobile,Coil Springs,15,5,9181.07
-49826767,Electric Pickup Truck,Smart,Halfshafts,15,3,9910.09
-82773478,Garbage Truck,Mitsubishi,Wheel Cylinder,5,2,8321.24
-25202207,Hybrid Car,Hyundai,Chassis Stiffeners,15,10,8409.19
-62208928,SUV,Honda,Steering Knuckles,10,7,6396.99
-48977640,Microcar,Porsche,Wheel Spindles,10,9,9353.61
-98682625,Fire Truck,Dodge,Axle Nut,0,4,9736.12
-70962202,Hearse,Jaguar,Brake Pads,5,2,5070.61
-25038422,Family Car,Cadillac,Tie Rod Ends,10,10,4422.76
-91341157,Vintage Car,Scion,Intake Manifold,10,4,8535.25
-48905612,Microcar,Maybach,Glove Compartment,10,6,8556.31
-59625207,Buggy,Fiat,Tire Plug Tool,5,9,3012.94
-84023594,Taxi,Ferrari,Windows,30,7,6234.78
-63503453,Van,Saturn,Floor Mats,5,6,5816.58
-21447131,Full-Size Pickup Truck,Koenigsegg,Hub Gasket,5,2,8896.26
-48012387,Off-Road Vehicle,Bugatti,Wheel Hub,10,7,8140.21
-87079245,Sports Car,Chevrolet,USB Ports,5,2,7098.38
-45092690,City Car,BMW,Dashboard Controls,15,2,7931.74
-90007462,Luxury Car,Ram,Drum Brakes,10,8,4623.0
-70214124,Police Car,Aston Martin,Idle Air Control Valve,5,5,8137.5
-33489371,Tow Truck,Genesis,Steering Column,10,3,8815.9
-64394861,Luxury Car,Volvo,Center Console,20,7,7914.54
-11368454,City Car,Hyundai,Chassis,200,10,5645.81
-91100691,Concept Car,Ram,Tie Rods,10,6,3439.46
-59634958,Fire Truck,MINI,Output Shaft,10,10,7675.7
-89777890,Hearse,Ram,Exhaust Pipes,10,1,6158.61
-85429313,Minivan,BMW,Steering Gearbox,20,3,7538.96
-15568774,Station Wagon,Toyota,Driveshaft,20,2,7720.58
-24255890,Hot Hatch,Mercedes-Benz,Power Windows,20,1,7123.83
-27879583,Grand Tourer,Karma,Wheel Spindles,10,8,4577.66
-46144926,Ice Cream Truck,Infiniti,Keyless Entry,10,6,9181.62
-51140184,Fire Truck,Mitsubishi,CV Joints,10,6,3023.7
-88926815,Electric Pickup Truck,Saturn,Spark Plugs,5,1,6897.79
-16952166,Minivan,Lincoln,Ignition Switch,5,7,8490.14
-78405701,Commercial Vehicle,Mitsubishi,Airbags,20,9,3350.04
-31869893,Roadster,Maybach,Chassis Reinforcements,30,1,7949.61
-75053133,Hot Hatch,Jaguar,Air Conditioning System,40,7,3206.02
-23747569,Ambulance,Fiat,Door Handles,5,2,6738.3
-19233002,Luxury SUV,Polestar,Tire Sealant,10,7,7977.79
-49241870,Grand Tourer,Dodge,Lane Departure Warning,10,6,7391.3
-71906611,Subcompact Car,Cadillac,Flywheel Ring Gear,10,8,9384.41
-31135566,Hatchback,Land Rover,Doors,50,10,4209.94
-36680415,Subcompact Car,Lexus,Wheel Bearings,10,6,3026.22
-84186980,Electric SUV,Bugatti,Ball Joints,10,8,4477.06
-58953836,Commercial Vehicle,Chrysler,MAF Sensor,5,2,9895.92
-61353260,Luxury SUV,Acura,Instrument Cluster,10,1,8328.92
-87416467,Estate Car,Bugatti,Axles,20,4,8865.44
-23587250,SUV,Saturn,Brake Lines,5,9,6327.55
-19611744,Subcompact Car,Chevrolet,Spindle Bearings,0,8,9511.69
-89929052,Compact Pickup Truck,Genesis,Tire Patch,5,3,4291.43
-73042247,Supercar,Acura,Timing Belt,10,9,7675.32
-68909224,Muscle Car,Scion,Steering Column,10,2,9131.25
-45647962,Ice Cream Truck,Bentley,Hub Seal,5,9,4525.65
-49729016,Off-Road Vehicle,Infiniti,Tire Chains Carrying Case,5,4,5838.69
-68948539,Commercial Vehicle,BMW,Brake Booster,10,10,6872.95
-76384748,Compact Pickup Truck,Alfa Romeo,Steering Knuckles,10,2,7745.03
-76645375,Convertible,Hummer,Tie Rods,10,2,5882.0
-76474122,Fire Truck,Chevrolet,Exterior Lights,10,1,5468.41
-10292142,Sedan,Tesla,Side Skirts,20,2,7420.87
-68049651,Van,Cadillac,Thermostat,5,10,3910.53
-29420737,Convertible,Lamborghini,Brake Master Cylinder,10,7,6108.23
-10585085,Amphibious Vehicle,Pontiac,Parking Sensors,10,3,5976.02
-48504682,Subcompact Car,Buick,Alternator,10,8,7478.01
-60472786,Hybrid Car,Honda,Breather Filter,5,8,4154.81
-49129872,Station Wagon,Land Rover,Intake Manifold,10,8,8581.91
-58903364,Police Car,Ram,Intake Manifold,10,9,7395.51
-79440117,Coupe,Infiniti,Wheel Lugs,5,6,3336.99
-19469452,Grand Tourer,Lotus,Pedals,10,2,4083.53
-82952409,Electric SUV,BMW,Brake Shoes,10,2,9801.39
-69010293,Garbage Truck,Fiat,Alternator,10,9,3828.75
-26028978,Ambulance,Infiniti,Ignition Control Module,5,6,6948.18
-50973449,Garbage Truck,Toyota,Spindle Nut,0,4,4888.3
-57648442,Buggy,Maserati,Electrical System,25,8,8604.84
-75676471,Grand Tourer,Chevrolet,Mass Airflow Sensor,5,9,4844.86
-87860169,Tow Truck,Alfa Romeo,Axles,20,5,8975.05
-15270256,Fire Truck,Lamborghini,Crankshaft Position Sensor,5,5,5582.22
-79296343,Subcompact Car,Ford,Coil Springs,15,8,4503.59
-30579490,Concept Car,Hummer,ABS Pump,10,4,5289.27
-29208454,Amphibious Vehicle,Koenigsegg,Power Steering Gear,20,2,3294.98
-22569703,Family Car,Jaguar,Dashboard Controls,15,4,4573.59
-52937785,Electric Pickup Truck,Karma,Tie Rods,10,6,5855.5
-73035515,Roadster,Chevrolet,Idler Arm,10,9,3243.77
-49988376,Minivan,Suzuki,Chassis Frame,200,10,3360.2
-42208320,Ambulance,Suzuki,Wheel Bearings,10,2,7081.81
-42670439,Fire Truck,Koenigsegg,Tailgate,40,6,8052.14
-14211617,Van,Toyota,Blind Spot Monitoring,10,6,8889.92
-93247831,Hatchback,McLaren,Navigation System,10,7,7085.28
-27245720,City Car,Toyota,Windshield Wipers,5,3,4662.69
-18682661,Family Car,GMC,Keyless Entry,10,2,5144.72
-80644197,Roadster,Volvo,Fuel Filter,5,1,3693.42
-17374020,Coupe,Buick,Quarter Panels,30,3,9579.31
-13742622,Estate Car,Fiat,Engine Control Unit (ECU),5,10,6215.79
-53841329,Van,Alfa Romeo,Sunroof/Moonroof,25,3,9196.05
-31336089,4x4,Jeep,Steering Knuckles,10,1,5342.79
-68928840,City Car,Aston Martin,Airbags,20,8,6309.05
-32297822,Sports Car,Suzuki,Clutch Packs,15,8,9054.19
-55088369,Subcompact Car,Toyota,Cup Holders,5,10,7150.72
-57080418,Estate Car,Saturn,Lights,10,3,7280.62
-65300722,Ambulance,Polestar,Fuel Injector,5,9,7301.72
-20616063,Coupe,Land Rover,Exhaust Manifold,10,10,9372.45
-76754691,City Car,Pontiac,Brake Pads,5,6,6919.87
-55615717,Taxi,Hummer,Engine Coolant Temperature Sensor,5,4,7122.34
-70017993,Amphibious Vehicle,Kia,Fuel System,30,10,6123.76
-68074492,Minivan,Mazda,Windows,30,8,8659.71
-13340184,Subcompact Car,Bentley,Collision Avoidance System,20,9,7536.6
-22663256,City Car,Chevrolet,Fuel Injector,5,2,8410.94
-35707150,Full-Size Pickup Truck,Cadillac,Catalytic Converter,15,3,7148.36
-61160671,Hatchback,Genesis,Pistons,15,8,8824.2
-85275388,Luxury Car,Chevrolet,Throw-out Bearing,5,4,4811.5
-69433672,Minivan,Kia,Fenders,20,2,4100.63
-52717838,Executive Car,Aston Martin,Anti-lock Braking System (ABS),30,5,6225.16
-67054973,Coupe,Rolls-Royce,Oxygen Sensor,5,6,9905.36
-28174914,Hearse,Mitsubishi,Driveshaft,20,4,3107.33
-80392424,Limousine,Volkswagen,Brake System,50,3,9102.87
-75706884,Coupe,Genesis,Spindle Pin,0,8,3061.96
-34558313,Roadster,Audi,USB Ports,5,10,7639.91
-34883384,Concept Car,Infiniti,Grille,10,9,3156.62
-55681226,SUV,Buick,Idler Arm,10,10,9371.98
-79344704,Grand Tourer,Toyota,Steering Wheel,15,8,9009.05
-40894314,Hot Hatch,Hyundai,Axle Shaft Bearings,10,8,4475.07
-48931121,Electric Pickup Truck,Bugatti,Tailpipe,5,9,6821.87
-78542645,Hatchback,Karma,Grille,10,8,6671.85
-84565165,Ambulance,Mercedes-Benz,Connecting Rods,10,10,9652.67
-29784377,Luxury Car,Honda,Flywheel Ring Gear,10,9,7583.98
-56115301,Compact Car,Bentley,Struts,15,5,3990.99
-48913704,Limousine,Bugatti,Transmission,75,1,7660.55
-26189411,Sedan,Scion,Wheel Studs,5,3,9497.74
-90159183,Hatchback,Polestar,Wheel Balancer,10,10,8574.24
-65923484,SUV,Volkswagen,Tie Rod Ends,10,1,5072.98
-59374550,Taxi,Mitsubishi,Oil Pan,10,9,3880.65
-57501557,SUV,Hummer,Wheel Cylinder,5,6,8853.86
-67243692,Microcar,Volvo,Windshield Wipers,5,2,5865.53
-15220603,Sports Car,Subaru,Catalytic Converter,15,6,8918.14
-36095118,Buggy,Lamborghini,Chassis Frame,200,4,4030.02
-46012901,Luxury SUV,Bugatti,Idler Arm,10,10,8732.24
-12958765,Electric SUV,Rolls-Royce,Oxygen Sensor,5,5,5167.53
-65208202,Supercar,Chevrolet,Roof,50,2,8167.43
-57734514,Coupe,Saturn,Bluetooth System,10,10,6249.38
-64543713,Garbage Truck,Infiniti,Emblems/Badges,5,7,8133.46
-28509778,Taxi,Toyota,Roof,50,6,9427.01
-25351390,Van,Acura,Hubcap,5,9,9486.74
-14213506,Police Car,Genesis,Flywheel Ring Gear,10,4,5986.0
-74380394,Van,Lincoln,Brake Master Cylinder,10,9,8526.02
-31119586,Electric SUV,BMW,Catalytic Converter,15,8,9874.82
-87270464,Electric Vehicle (EV),Hummer,Tire Valve Cap,5,5,8142.98
-27659760,Armored Car,Dodge,Tire Chains,20,6,7641.11
-89152313,Sedan,Nissan,Ignition Control Module,5,3,7797.38
-23180126,Pickup Truck,Mazda,Wheel Bearings,10,4,3119.61
-49605038,Tow Truck,Bugatti,Audio System,15,8,4404.29
-87342338,Electric Vehicle (EV),Smart,Adaptive Cruise Control,20,8,3811.06
-12761775,Coupe,Saab,Spindle Pin,0,9,5944.02
-39127104,Hot Hatch,Hyundai,Heated Seats,30,3,4169.86
-19000136,Executive Car,Ferrari,Differential Seals,5,8,4549.28
-36319005,Coupe,Hyundai,Shocks,10,9,9106.89
-72662685,Electric SUV,Saturn,USB Ports,5,10,6703.87
-97542291,Compact Pickup Truck,Genesis,Wheel Studs,5,7,8706.94
-79620467,Concept Car,Acura,Engine Control Unit (ECU),5,5,6013.59
-38093924,Compact Car,Tesla,Hub Dust Cap,5,9,5994.49
-12793755,Sedan,Scion,Knock Sensor,5,9,9336.83
-70764829,Hatchback,Koenigsegg,Steering Damper,5,1,9030.32
-45450169,Fire Truck,Fiat,Tires,25,1,3530.08
-78125367,Hybrid Car,Volvo,Adaptive Cruise Control,20,2,3906.36
-77086402,Supercar,Buick,Tires,25,7,6844.34
-33296835,Full-Size Pickup Truck,Scion,Air Filter,5,10,9530.81
-69705669,Tow Truck,Honda,Wheel Studs,5,7,6860.64
-56630973,Full-Size Pickup Truck,MINI,Idle Air Control Valve,5,8,7591.6
-23368755,Subcompact Car,Hummer,Differential Bearings,10,8,9622.9
-59115963,Hot Hatch,Volkswagen,Idler Arm,10,7,3754.26
-84313825,Hot Hatch,Hyundai,CV Joints,10,5,8677.7
-45716487,Compact Car,Saturn,Collision Avoidance System,20,7,6316.05
-71428636,Ice Cream Truck,Genesis,Spindle Bearings,0,3,5263.39
-28741385,Supercar,MINI,Chassis Braces,20,7,3943.52
-64457269,Electric SUV,Chevrolet,Camshaft Position Sensor,5,5,3672.8
-83019173,Crossover,McLaren,Thermostat,5,2,8076.82
-72963883,Roadster,Ferrari,Control Arms,15,7,6339.24
-17428031,Hearse,Land Rover,Wheel Hub,10,5,7234.52
-66811297,Full-Size Pickup Truck,Mazda,Tire Pressure Gauge,5,7,7731.19
-15155980,Coupe,Buick,Wheel Lugs,5,10,7416.09
-84492843,Crossover,Saab,Electrical System,25,1,7097.47
-86749091,Fire Truck,Karma,Distributor,10,9,9724.67
-25733808,Supercar,Jaguar,Side Skirts,20,7,6839.44
-22589711,4x4,Saturn,Ignition System,10,2,7891.53
-42491500,Muscle Car,Polestar,Wheel Balancer,10,5,7324.68
-24577340,City Car,Lexus,Knock Sensor,5,8,5269.56
-29700141,Van,Hummer,Fenders,20,7,9181.87
-61906983,Vintage Car,Scion,Intake Air Temperature Sensor,5,2,5712.01
-30388789,Fire Truck,Lotus,Distributor,10,7,7760.07
-27102322,Estate Car,Chrysler,Seatbelts,10,3,6922.09
-34114005,Crossover,Buick,Shock Absorbers,10,5,4951.79
-58641005,SUV,Buick,Power Door Locks,20,8,8247.67
-57652100,Luxury SUV,Smart,Valves,10,4,4160.8
-24168207,Full-Size Pickup Truck,Honda,Tie Rods,10,5,7967.77
-96860394,Sedan,Karma,Ignition Coil,5,5,8531.05
-51690169,Commercial Vehicle,Hyundai,Tire Pressure Gauge,5,5,6604.58
-17587328,Tow Truck,Lexus,MAF Sensor,5,1,5922.03
-92371162,Coupe,Maserati,Seats,70,7,5289.88
-79646996,Supercar,Bugatti,Hub Bearings,10,8,3187.52
-10515035,Convertible,Ferrari,Axles,20,7,8483.39
-77230969,Limousine,Dodge,Knock Sensor,5,10,3337.78
-90587253,Grand Tourer,Ferrari,Sway Bars,10,8,9778.09
-30753221,Microcar,Chrysler,Chassis Bushings,10,3,3095.42
-24325590,Fire Truck,Volkswagen,Muffler,10,1,6963.83
-12088498,Pickup Truck,MINI,Wheel Center Cap,5,5,7361.85
-62207332,Sports Car,Volkswagen,Wheel Nuts,5,9,7084.38
-89163297,Microcar,Oldsmobile,Brake Rotors,10,4,3600.14
-82953792,Concept Car,Saturn,Valves,10,10,3245.95
-73877587,Full-Size Pickup Truck,Acura,Fuel Filter,5,7,4888.48
-92130482,Minivan,Audi,Anti-lock Braking System (ABS),30,4,3915.54
-31622122,Executive Car,Cadillac,Stability Control,20,4,6988.78
-76340286,Commercial Vehicle,Honda,Blind Spot Monitoring,10,1,9607.36
-88640998,Subcompact Car,Tesla,Mirrors,5,7,6166.4
-69344931,Compact Pickup Truck,Acura,Windshield Wipers,5,6,8965.39
-40783946,Garbage Truck,Smart,Spark Plugs,5,7,4296.81
-22012240,Amphibious Vehicle,GMC,Glove Compartment,10,10,9919.19
-51814385,Convertible,Ferrari,Hub Bolts,5,4,3629.48
-61366015,Ice Cream Truck,Lamborghini,Ignition Coil,5,10,8073.14
-13316001,Compact Car,Maybach,Doors,50,3,5293.54
-57429297,Fire Truck,Rolls-Royce,Hub Seal,5,5,5081.31
-69257454,Full-Size SUV,Chevrolet,Spark Plug Wires,5,4,9117.53
-81292127,SUV,Honda,Auxiliary Input,5,3,7121.02
-64669640,Tow Truck,Bentley,Seatbelts,10,9,6494.22
-59636884,Hearse,Volvo,Body,300,3,5122.13
-80950920,Sedan,Rolls-Royce,Suspension,100,6,3651.5
-65891564,Vintage Car,Alfa Romeo,Differential,30,2,4229.6
-38435410,Full-Size Pickup Truck,Bugatti,Wheel Hubs,10,8,5964.44
-66059419,Concept Car,Lincoln,Cruise Control,20,5,7952.67
-37942478,Station Wagon,Chevrolet,Tire Jack,10,1,7595.08
-55850888,Off-Road Vehicle,Ferrari,Seats,70,8,3853.54
-97481998,SUV,Cadillac,Pinion Seal,5,9,6904.56
-52013394,Vintage Car,Tesla,Differential,30,2,5618.81
-51969898,Subcompact Car,Mazda,Wheel Studs,5,3,3909.89
-35370586,Concept Car,Scion,Spark Plug Wires,5,3,7562.49
-41524952,Crossover,Fiat,Wheel Bearings,10,9,5594.39
-94336103,Family Car,Lamborghini,Clutch Packs,15,7,6710.07
-35466466,Sedan,Lotus,Spark Plugs,5,6,8851.29
-61296203,Armored Car,Acura,Throw-out Bearing,5,10,8711.36
-27890382,Van,Oldsmobile,Wheel Cylinder,5,6,3526.71
-55180140,Estate Car,Mazda,Bluetooth System,10,3,8286.33
-59910545,4x4,Bentley,Camshaft,10,8,3125.76
-48010968,Executive Car,Ram,Fuel Filter,5,6,7114.82
-82607246,Crossover,BMW,Differential,30,7,7680.6
-88728464,Hearse,Lamborghini,Stub Axle,0,3,5307.8
-62105635,Commercial Vehicle,Tesla,Muffler,10,4,8181.18
-25852566,Buggy,Lotus,Anti-lock Braking System (ABS),30,6,6186.98
-16705117,Luxury Car,Pontiac,Differential Cover,10,2,5614.8
-41524630,Executive Car,Subaru,Fuel Pump,10,6,7553.38
-42505952,Electric Vehicle (EV),Nissan,Spindle Seal,0,10,9670.2
-30722879,SUV,Maserati,Dashboard Controls,15,2,9393.86
-66562423,4x4,Maybach,Idle Air Control Valve,5,7,8363.44
-58113076,Hot Hatch,Mazda,Wheel Bearings,10,7,9771.84
-19604397,Minivan,Karma,Roof,50,8,6074.78
-22794616,Off-Road Vehicle,Lamborghini,Tire Patch,5,2,9559.55
-17914998,Estate Car,Smart,Brake Pads,5,7,3290.82
-54456948,Crossover,Volvo,Cruise Control,20,3,9980.41
-25286508,City Car,Honda,Mass Airflow Sensor,5,10,9732.22
-44728739,Compact Pickup Truck,Mitsubishi,Oil Pan,10,10,9355.46
-48551561,Minivan,Genesis,Brake Lines,5,7,5141.36
-57489280,Grand Tourer,Nissan,Center Console,20,5,3808.84
-19904881,Sedan,Rolls-Royce,Hub Gasket,5,5,5631.94
-20724932,Ice Cream Truck,Smart,Wheel Lugs,5,9,3387.2
-17401774,Garbage Truck,Alfa Romeo,Drag Link,10,3,6656.83
-51967863,Hatchback,Oldsmobile,Distributor,10,4,7908.2
-80233003,Coupe,Ford,Navigation System,10,1,4884.49
-76182652,Full-Size SUV,Mercedes-Benz,Wheel Lugs,5,8,4442.92
-76972689,Taxi,Dodge,Pitman Arm,10,6,7661.53
-72986705,Hatchback,Dodge,Cup Holders,5,8,3911.45
-99398701,Electric SUV,Maserati,Bluetooth System,10,6,9703.67
-28004225,Buggy,McLaren,Backup Camera,10,1,3967.29
-62042669,Full-Size SUV,Mitsubishi,CV Joints,10,5,6065.89
-90515170,Executive Car,Koenigsegg,Control Arms,15,8,4179.37
-47335258,Luxury SUV,Honda,Tire Valve Cap,5,3,4630.93
-31605691,Luxury SUV,Ferrari,Axle Nut,0,5,3525.45
-85104721,Limousine,Chevrolet,Air Conditioning System,40,10,4327.65
-73815572,Hot Hatch,Buick,Chassis Mounts,10,4,7696.4
-73035842,Ambulance,Mazda,Blind Spot Monitoring,10,6,9263.08
-71078640,Grand Tourer,Land Rover,Starter Motor,10,8,4783.39
-89438662,Luxury SUV,Land Rover,Electronic Stability Control (ESC),20,1,4917.17
-99728867,Microcar,Dodge,Audio System,15,3,7712.98
-56218601,Van,Fiat,Spark Plugs,5,1,6468.87
-45130694,Full-Size Pickup Truck,Hummer,Wheel Studs,5,7,9738.98
-57121295,Full-Size Pickup Truck,Smart,Oil Pump,10,5,8604.38
-95774192,Compact Pickup Truck,Hummer,Chassis,200,4,3776.68
-53894475,Minivan,Saturn,Floor Mats,5,1,5589.66
-30957092,Ice Cream Truck,Genesis,Trim Pieces,10,4,5669.75
-34815705,Minivan,Mazda,Transmission,75,9,9043.29
-58528523,Microcar,Ram,Ignition Control Module,5,9,7629.31
-47121807,Limousine,Maserati,Starter Motor,10,2,3991.53
-66954437,Coupe,Maserati,Tie Rod Ends,10,9,7570.2
-21147421,Electric Vehicle (EV),Genesis,Fuel Pump,10,8,8423.97
-62281597,Electric SUV,Ford,Engine Control Unit (ECU),5,2,8709.79
-18409160,Electric Pickup Truck,Fiat,Fuel Tank,30,1,8426.21
-78398234,Amphibious Vehicle,Jaguar,Fuel System,30,8,4499.68
-86872346,Coupe,Porsche,Fuel Pump,10,3,4109.26
-75764951,Full-Size Pickup Truck,Infiniti,Brake System,50,3,8093.45
-60167007,Muscle Car,Scion,Pinion Seal,5,1,4878.54
-70638919,Crossover,Mazda,Bumpers,50,5,9810.81
-11917312,Tow Truck,Scion,Ignition Control Module,5,6,8612.88
-79279431,Hatchback,Jeep,Parking Sensors,10,1,5592.43
-95421185,Concept Car,Chevrolet,Throttle Position Sensor,5,8,8358.95
-61922563,Ice Cream Truck,Bugatti,Control Arms,15,8,3538.8
-42082484,Ambulance,Nissan,Power Steering Fluid,5,2,8465.01
-74168319,Tow Truck,Chevrolet,Valves,10,7,6776.7
-92564156,Electric Vehicle (EV),Bugatti,Sway Bars,10,10,7196.63
-50160734,Family Car,Hyundai,Power Steering Gear,20,3,6411.68
-42686079,Executive Car,Porsche,Steering Gearbox,20,8,3992.97
-51130889,Convertible,Dodge,Spindle Bushing,0,4,3024.86
-60286309,Tow Truck,Honda,Brake Calipers,10,10,5316.37
-72751388,Van,Rolls-Royce,Spindle,0,6,7682.33
-10106398,Buggy,Subaru,Wheel Studs,5,10,9275.23
-60527588,Minivan,BMW,Fuel Injector,5,8,3739.17
-52512335,Convertible,Karma,Alarm System,10,2,5274.28
-98928943,City Car,Dodge,Air Filter,5,1,5339.25
-58054889,Convertible,Chevrolet,Valve Cover,5,8,9789.88
-25235206,Hatchback,Maserati,Oil Pan,10,3,7092.29
-77574037,Luxury Car,Chrysler,Throttle Body,10,2,7881.22
-77813387,Station Wagon,Koenigsegg,Windshield Wipers,5,7,3256.24
-48961311,Taxi,Porsche,CV Joints,10,2,7477.85
-96442579,Convertible,Nissan,Trunk/Hatch,40,10,4787.14
-73471798,Sports Car,Genesis,Battery,20,6,9947.9
-14005358,Executive Car,Audi,Crankshaft Position Sensor,5,5,8512.01
-17100055,Full-Size SUV,Saab,Tailgate,40,3,5223.21
-76721693,Amphibious Vehicle,BMW,Water Pump,10,1,3712.4
-82254168,City Car,Mitsubishi,Power Windows,20,10,6959.29
-85494205,Ice Cream Truck,BMW,Tailpipe,5,8,8045.86
-44400249,City Car,Karma,ABS Control Module,10,9,8946.49
-59812030,Grand Tourer,Land Rover,Crankshaft,15,1,4609.86
-66652882,Microcar,GMC,Throttle Position Sensor,5,1,9504.89
-12220767,Concept Car,Polestar,Switches,5,3,8469.17
-78419550,Concept Car,Ferrari,Pitman Arm,10,9,4791.43
-52835285,Full-Size SUV,Fiat,Anti-lock Braking System (ABS),30,7,4252.83
-31742111,Ice Cream Truck,MINI,Brake Booster,10,3,3948.16
-85125702,Sedan,Smart,Oxygen Sensor,5,1,3406.89
-31940223,4x4,Maserati,Connecting Rods,10,7,4204.32
-71667306,Minivan,Polestar,Power Steering Hoses,5,10,7978.67
-23894934,Hearse,Genesis,EGR Valve,10,5,9918.68
-63308731,Van,BMW,Trunk/Hatch,40,2,4559.39
-47322090,Hearse,Cadillac,Power Steering Pump,15,10,5815.03
-38287662,Station Wagon,MINI,Fuel Pump,10,6,5941.71
-46086026,Crossover,Jaguar,Throttle Body,10,10,5122.74
-51921499,Muscle Car,Tesla,Audio System,15,9,8187.97
-77655407,Hatchback,Scion,ABS Pump,10,8,4493.89
-33713785,Compact Pickup Truck,Porsche,Tire Chains,20,2,7205.12
-18930315,Electric Vehicle (EV),Acura,Hub Dust Cap,5,7,5439.76
-20583546,Full-Size Pickup Truck,Chrysler,Wheel Lugs,5,9,7005.98
-47839298,Hot Hatch,Mazda,Carpeting,20,8,5596.98
-56064844,Tow Truck,Karma,Wheel Cover,5,7,9455.21
-69779458,Pickup Truck,Subaru,Suspension,100,10,4492.85
-46413688,Hatchback,Jaguar,Spindle,0,6,3442.48
-96390727,Sedan,Ford,Wheel Lugs,5,8,5717.46
-98150709,4x4,Polestar,Crankshaft Position Sensor,5,5,9011.61
-66262863,Coupe,GMC,Hub Bearings,10,2,6405.64
-89849607,Station Wagon,Suzuki,Spark Plug Wires,5,6,5482.99
-53472058,Estate Car,Infiniti,Power Steering Pump,15,3,8998.58
-77477772,Tow Truck,Smart,Struts,15,1,8264.73
-56342822,City Car,Ford,Battery,20,8,3424.02
-30276651,Full-Size Pickup Truck,Subaru,Fuel Pump,10,3,8122.79
-53481920,Hearse,Ferrari,Pitman Arm,10,9,6687.36
-34831475,Family Car,Maybach,USB Ports,5,3,5222.15
-54578436,Limousine,Kia,Tire Iron,5,7,9934.73
-81298459,Limousine,Genesis,Coil Springs,15,4,7300.43
-13846035,Full-Size SUV,Mazda,Camshaft Position Sensor,5,6,6281.54
-72490493,Hybrid Car,Lamborghini,Throttle,10,10,7069.84
-38698255,Pickup Truck,Maybach,Floor Mats,5,10,3493.26
-55218186,Sedan,Volkswagen,Idle Air Control Valve,5,4,6859.15
-78001501,Station Wagon,Alfa Romeo,Wheel Hubs,10,4,9333.86
-57452798,Estate Car,Lexus,Wheel Lugs,5,10,8303.81
-28450218,Grand Tourer,Alfa Romeo,Tire Chains Carrying Case,5,5,6975.73
-72368028,Hybrid Car,Acura,Trunk/Hatch,40,3,7711.82
-50013960,Sports Car,Fiat,Distributor,10,9,9025.06
-10360723,Executive Car,Oldsmobile,Ignition Control Module,5,6,7547.83
-46706631,Supercar,Bugatti,Axle Flange Gasket,5,2,4774.76
-64685501,Off-Road Vehicle,Chevrolet,Engine Control Unit (ECU),5,2,4324.48
-28576350,Garbage Truck,Lexus,Electrical System,25,3,9753.84
-56954177,Taxi,Nissan,Sway Bars,10,8,6590.79
-31192833,Muscle Car,Subaru,Muffler,10,8,5682.19
-59033634,Estate Car,Audi,Tire Plug Tool,5,7,5918.59
-74886654,Family Car,Audi,Control Arms,15,8,9205.75
-47445770,Compact Pickup Truck,Ram,Hub Bearings,10,1,6604.18
-30292533,Compact Pickup Truck,Lincoln,Blind Spot Monitoring,10,10,8173.77
-26584432,City Car,Mercedes-Benz,Bumpers,50,1,9484.95
-67522886,Ice Cream Truck,Volkswagen,Tire Patch Cement,5,7,5062.27
-84650336,Hybrid Car,Jeep,Valve Cover,5,1,3190.3
-13071662,Compact SUV,Maybach,Wheels,20,4,5429.57
-84809399,Convertible,Koenigsegg,Exhaust Pipes,10,7,7794.68
-71413673,Full-Size Pickup Truck,Ram,Wheel Spacer,5,9,3925.58
-66891718,Crossover,Cadillac,Tire Chains Tensioners,10,10,8412.33
-98182775,Sports Car,Suzuki,Heated Seats,30,2,3914.72
-59627936,Ice Cream Truck,Polestar,Power Steering Gear,20,3,5047.95
-56833635,Coupe,Jeep,Valve Cover,5,4,4253.87
-92032821,Limousine,Buick,Fuel Tank,30,7,5373.08
-90670548,City Car,McLaren,Hood,30,4,7162.54
-79263987,Hearse,Ford,Hood,30,6,3623.73
-86401738,Pickup Truck,Lotus,Instrument Cluster,10,6,9944.43
-97130278,Sports Car,Jaguar,Transmission,75,5,7872.06
-66421848,Concept Car,Saab,Battery,20,1,3940.71
-30276523,Hatchback,Lotus,Control Arms,15,10,9031.83
-75164773,Microcar,Porsche,U-Joints,5,3,8560.88
-75667216,Electric SUV,Polestar,Tire Plug,5,4,4708.96
-77854908,Muscle Car,BMW,Pinion Seal,5,2,7331.16
-64077806,Compact Car,MINI,Hub Bearings,10,6,5804.83
-49283557,Compact Car,Karma,Oil Filter,5,8,5471.06
-13732368,Concept Car,Ferrari,Electronic Stability Control (ESC),20,9,4073.37
-85082427,Hot Hatch,Lotus,Blind Spot Monitoring,10,4,8171.59
-84344013,Taxi,Subaru,Drivetrain,150,3,9182.3
-50784901,Garbage Truck,Bugatti,Coil Springs,15,1,6250.42
-52976865,Coupe,Smart,Parking Brake Cable,5,5,3386.45
-73604211,Electric Pickup Truck,Mercedes-Benz,Oxygen Sensor,5,8,6689.87
-33106393,Electric Pickup Truck,Porsche,Differential Cover,10,3,5658.13
-60520702,Armored Car,Volvo,Steering Shaft,10,10,8434.8
-87804127,Electric SUV,Bugatti,Interior,50,4,7456.09
-27016061,Full-Size SUV,Bugatti,Wheel Nuts,5,1,9107.64
-14477745,Ambulance,Toyota,Axle Nut,0,8,5498.73
-48750132,Luxury SUV,Mitsubishi,Tire Chains Tensioners,10,6,9687.45
-50699524,Limousine,Polestar,Wheel Lugs,5,4,5167.43
-36465259,Hearse,Buick,Throttle Position Sensor,5,3,4633.66
-83192228,Supercar,Jaguar,Cruise Control,20,4,7905.18
+part_id,car_type,brand,car_part,weight_kg,number_of_parts,part_cost,image
+69211321,Compact Pickup Truck,Ford,Spindle Bushing,0,10,6076.58,
+80098752,Armored Car,Maserati,ABS Pump,10,4,3072.15,
+45221781,Roadster,Ram,Catalytic Converter,15,8,8898.22,
+16137326,Tow Truck,Lotus,Battery,20,6,4915.79,
+60716175,SUV,Bugatti,Crankshaft,15,9,3960.01,
+79746671,Station Wagon,Maybach,Glove Compartment,10,7,6201.14,
+78468084,Buggy,Chrysler,Air Filter,5,4,4174.77,
+85328171,Coupe,Acura,Chassis Mounts,10,3,9884.82,
+71362183,Hybrid Car,Lamborghini,Parking Sensors,10,2,4075.41,
+19916724,Estate Car,Jeep,Wheel Hubs,10,4,7097.36,
+29935760,Supercar,Acura,Hub Seal,5,6,9709.96,
+79363150,Grand Tourer,Saturn,Steering Gearbox,20,5,7255.29,
+47124417,Muscle Car,Oldsmobile,Chassis Braces,20,7,3876.12,
+28894586,Electric Vehicle (EV),GMC,Airbags,20,10,6811.7,
+67932802,Compact Car,Ford,Windshield Wipers,5,9,3572.48,
+66881298,SUV,Ram,Power Windows,20,6,3240.96,
+65716674,City Car,Karma,Axle Flange Gasket,5,3,3190.39,
+91985176,Executive Car,Chrysler,Collision Avoidance System,20,9,9555.85,
+11229942,Microcar,Hummer,Power Steering Pump,15,7,8463.69,
+98395213,Executive Car,Mitsubishi,Wheel Lugs,5,2,5110.7,
+99762313,Crossover,Porsche,Windows,30,8,3475.66,
+68091971,Vintage Car,Cadillac,Halfshafts,15,5,9442.89,
+43864998,Electric SUV,Ford,Throttle,10,3,3310.13,
+53148976,Compact SUV,Porsche,Thermostat,5,5,8155.19,
+67769076,Commercial Vehicle,Mitsubishi,Roof,50,9,9243.26,
+20010291,Amphibious Vehicle,Maserati,Ignition Coil,5,3,6144.65,
+96881624,City Car,Honda,Rack and Pinion,15,7,9757.05,
+22569547,Electric Vehicle (EV),Ford,Distributor,10,10,3560.56,
+50259342,Buggy,Nissan,Tire Valve Cap,5,1,7491.52,
+78629575,Sports Car,Mazda,CV Joints,10,3,8712.3,
+74807938,Minivan,Lamborghini,Oil Pump,10,7,8538.9,
+14583959,Tow Truck,Alfa Romeo,Seatbelts,10,2,3037.08,
+45818318,Armored Car,Buick,Alarm System,10,3,5498.65,
+82572385,Armored Car,Koenigsegg,Fuel Lines,10,9,6104.44,
+58987937,City Car,Saab,Alarm System,10,5,9279.68,
+39551077,Police Car,Polestar,Control Arms,15,6,9603.99,car_parts_images\collision_avoidance_system.png
+36507594,Family Car,Ram,Exterior Lights,10,1,4787.17,
+88578528,Sports Car,Bugatti,Starter Motor,10,1,5039.18,
+69872763,Sedan,Jeep,Tire Pressure Monitoring System (TPMS),10,2,9067.98,
+83700637,Roadster,Smart,Flywheel Ring Gear,10,2,3053.84,
+75719375,Microcar,Fiat,Vehicle Speed Sensor,5,5,9554.19,
+92572690,Crossover,Cadillac,Brake Booster,10,9,5083.64,
+30941664,Luxury SUV,Kia,Armrests,10,9,3857.74,car_parts_images\collision_avoidance_system.png
+47924041,Executive Car,Scion,Intake Manifold,10,8,9233.21,
+77384464,Estate Car,Tesla,Differential Cover,10,6,3527.74,
+58329196,Garbage Truck,Infiniti,Brake Booster,10,8,6957.94,
+14710925,Minivan,Subaru,Shocks,10,8,9211.7,
+27318420,Hatchback,Volvo,Tire Chains Carrying Case,5,8,5162.24,
+40261211,Luxury SUV,Ferrari,Throw-out Bearing,5,9,8211.15,
+83474748,Family Car,Pontiac,ABS Sensors,5,8,4011.49,
+21743118,Crossover,Hyundai,Oil Pan,10,7,6505.23,
+73888974,Ice Cream Truck,GMC,Transmission Control Module,5,6,9575.5,
+76164441,Hot Hatch,Hyundai,ABS Sensors,5,9,4189.21,
+50130232,Compact Car,Buick,Differential Gears,20,1,9639.76,
+51533874,Garbage Truck,Aston Martin,Tie Rod Ends,10,10,5614.16,
+98754303,SUV,MINI,Engine Control Unit (ECU),5,2,9699.85,
+77143158,Concept Car,Lincoln,Power Steering Pump,15,9,3589.56,
+46894948,Muscle Car,Mercedes-Benz,Axle Seals,5,10,4495.9,
+49240650,Convertible,Saturn,Throttle Position Sensor,5,4,8768.95,
+16086143,Hatchback,Ford,Vehicle Speed Sensor,5,6,3218.4,
+34999724,Minivan,Buick,Switches,5,4,4589.1,
+41272446,Family Car,Infiniti,Collision Avoidance System,20,4,8193.34,
+53908486,City Car,Mazda,Power Steering Hoses,5,10,5771.7,
+72843100,Electric SUV,Acura,Axle Shaft Bearings,10,2,5831.79,
+81684327,Compact Pickup Truck,Maybach,Fuel Tank,30,10,8510.46,
+70154191,Concept Car,Subaru,Ignition Control Module,5,7,4060.17,
+40002713,Garbage Truck,Bentley,Spark Plug Wires,5,6,5010.07,
+98631672,Executive Car,Lamborghini,Pressure Plate,10,5,7926.81,
+49481641,Ambulance,GMC,Timing Belt,10,9,8255.81,
+99726524,Luxury Car,Saab,Battery,20,5,5507.78,
+40591132,Fire Truck,Scion,Flywheel Ring Gear,10,9,9660.62,
+52702989,Family Car,Suzuki,Tire Iron,5,5,4759.57,
+80193265,Electric Pickup Truck,Bugatti,Shock Absorbers,10,1,3560.97,
+98397263,SUV,Oldsmobile,Fuel Pump,10,6,6688.88,
+52442834,Garbage Truck,Buick,Wheel Spacer,5,2,5852.34,
+24952201,Vintage Car,Nissan,Wheel Bearings,10,8,9456.17,
+64442063,City Car,Fiat,Windshield Wipers,5,5,8888.84,
+81973739,Compact SUV,Mercedes-Benz,Emblems/Badges,5,3,4161.92,
+90485964,Estate Car,Smart,Hub Assembly,15,1,8564.26,
+39631893,SUV,Mercedes-Benz,Rack and Pinion,15,7,4278.56,
+73773735,Fire Truck,GMC,Windows,30,4,3958.55,
+37773389,Sedan,Land Rover,Power Steering Gear,20,7,9627.56,
+67385341,Vintage Car,Genesis,Tailpipe,5,4,7032.69,
+63059166,Pickup Truck,GMC,Cylinder Head,20,3,4519.18,
+18912725,Pickup Truck,Hummer,Chassis Bushings,10,5,3380.69,
+99113055,Sports Car,Oldsmobile,Coil Springs,15,2,9215.18,
+10628151,Sedan,McLaren,Spark Plugs,5,7,7143.98,
+98895072,Police Car,Oldsmobile,Clutch Packs,15,5,9961.02,
+64779622,Coupe,Toyota,Safety Features,50,7,8667.69,
+92157724,Amphibious Vehicle,Porsche,Connecting Rods,10,7,4741.4,
+95591749,Executive Car,Ram,Windows,30,9,9787.73,
+12462736,City Car,Polestar,Bluetooth System,10,3,6248.56,
+63730549,Microcar,Cadillac,Tire Plug,5,8,9769.9,
+11231256,Hearse,GMC,Tire Chains,20,4,5483.39,
+75155051,Police Car,Rolls-Royce,Audio System,15,7,7251.64,
+80434444,Coupe,Mitsubishi,Axle Nut,0,1,5047.57,
+90891674,Estate Car,Polestar,Remote Start,15,9,8055.31,
+94171832,Luxury Car,Scion,Fan Belt,5,9,9035.63,
+27025103,Off-Road Vehicle,Lexus,Tire Patch Cement,5,9,9861.42,
+64096466,Full-Size Pickup Truck,Lincoln,Tire Plug Tool,5,9,8035.81,
+37364975,Armored Car,Maserati,Sway Bars,10,8,5347.67,
+34788932,Sedan,Porsche,Wheel Lugs,5,6,7208.14,
+96739815,City Car,Maserati,Fenders,20,2,8106.54,
+29309504,Ambulance,Mercedes-Benz,Struts,15,6,6094.29,
+39273380,Van,Pontiac,Exhaust Manifold,10,8,8722.32,
+66111350,Convertible,Ford,Steering Wheel,15,5,9132.76,
+24912827,Limousine,Aston Martin,Wheel Hubs,10,9,4911.97,
+13551092,Compact SUV,Suzuki,Idler Arm,10,4,4135.67,
+94438953,Convertible,Volvo,Wheel Balancer,10,3,3267.72,
+24296596,Crossover,Ford,Differential Cover,10,3,8375.22,
+76118200,Compact Car,Audi,Door Handles,5,4,5209.8,
+85718432,Hatchback,Tesla,Water Pump,10,9,5856.21,
+59409502,Coupe,Suzuki,Throttle Position Sensor,5,1,7505.22,
+74859950,Full-Size Pickup Truck,Cadillac,Pressure Plate,10,1,9991.93,
+72097069,Microcar,Rolls-Royce,Air Filter,5,9,6353.7,
+41472097,Van,Oldsmobile,Tire Iron,5,1,5264.43,
+94306740,Off-Road Vehicle,Hyundai,Chassis,200,5,6752.28,
+55107472,Convertible,Oldsmobile,Steering Knuckles,10,5,6134.14,
+66569978,Sedan,Bentley,Throttle Position Sensor,5,9,6708.74,
+98273291,Hybrid Car,Fiat,Exterior Lights,10,10,6429.43,
+41557615,Muscle Car,Mercedes-Benz,Valve Cover,5,4,3013.18,
+35342753,Police Car,Honda,Engine Coolant Temperature Sensor,5,10,5978.13,
+52827091,Van,Audi,Fuel Injector,5,4,7526.69,
+42518715,Sports Car,McLaren,Brake Lines,5,5,5572.13,
+26774664,Pickup Truck,Koenigsegg,Intake Manifold,10,10,7491.05,
+21331539,Ice Cream Truck,Maybach,Throttle Position Sensor,5,7,3166.14,
+20633848,Compact Car,Suzuki,Cooling System,30,7,8602.43,
+57579181,Buggy,Mitsubishi,Throttle Body,10,1,6062.47,
+22248360,Armored Car,Oldsmobile,MAF Sensor,5,9,6618.28,
+19909429,Vintage Car,Saturn,Driveshaft,20,7,4811.35,
+29469768,Full-Size Pickup Truck,Ford,Doors,50,7,7708.93,
+80766037,Hybrid Car,Toyota,Collision Avoidance System,20,6,6131.95,
+60860853,Coupe,Ram,Tie Rods,10,8,7081.95,
+69388028,Ice Cream Truck,Acura,Adaptive Cruise Control,20,2,4021.12,
+18554273,Hearse,Scion,Tailpipe,5,5,8371.23,
+95908210,Armored Car,MINI,Tire Iron,5,2,6559.84,
+35827986,Crossover,Lexus,Steering Damper,5,5,3534.62,
+37097953,Concept Car,Jeep,Alternator,10,8,5196.43,
+14723406,Fire Truck,GMC,Power Door Locks,20,3,6662.18,
+72942866,Pickup Truck,Alfa Romeo,Brake Shoes,10,10,9856.26,
+23078977,Police Car,Hummer,EGR Valve,10,10,9753.92,
+47253385,Convertible,Volkswagen,Breather Filter,5,9,8059.17,
+60183919,Full-Size SUV,Subaru,Ignition Control Module,5,8,7151.88,
+97866686,Full-Size Pickup Truck,Dodge,Timing Belt,10,10,3875.28,
+59845416,Ice Cream Truck,GMC,Mirrors,5,1,8593.93,
+53761309,Compact SUV,Lexus,Airbag Control Module,5,7,7474.47,
+96694594,Sports Car,Infiniti,Remote Start,15,1,6281.23,
+99194713,Concept Car,Jeep,Exhaust Manifold,10,10,4290.07,
+64478810,4x4,Koenigsegg,Coil Springs,15,3,7254.18,
+97750519,Buggy,Jaguar,Wheel Hub,10,5,4122.11,
+62887223,Taxi,Porsche,Power Windows,20,9,4946.62,
+99948373,4x4,Land Rover,Switches,5,10,4437.04,
+87967678,Minivan,Ram,Tire Patch Cement,5,6,6450.25,
+69886315,Roadster,Pontiac,Power Steering Pump,15,8,8965.14,
+62784943,Full-Size SUV,Lotus,Ball Joints,10,10,9406.57,
+68130173,Convertible,MINI,Navigation System,10,1,5675.14,
+57382133,Hearse,Mazda,Dashboard Controls,15,3,8063.45,
+19130006,Coupe,McLaren,Rack and Pinion,15,3,8274.83,
+82065124,Amphibious Vehicle,Bugatti,Hub Assembly,15,4,7070.95,
+64934446,Supercar,Ram,Knock Sensor,5,2,4707.59,
+85447292,Estate Car,Suzuki,Floor Mats,5,7,9309.03,
+30744202,Subcompact Car,Volkswagen,Windshield Wipers,5,2,3678.76,
+14033387,Minivan,Maserati,Tire Chains Tensioners,10,9,7560.57,
+86789333,Executive Car,Lexus,Wheel Bearings,10,5,7267.73,
+89821850,Buggy,Volkswagen,Transmission Control Module,5,4,6471.66,
+40746958,Electric SUV,Buick,Wheel Bearings,10,7,3961.37,
+63638944,Luxury Car,Lamborghini,Lug Wrench,5,10,8274.86,
+91219649,Coupe,McLaren,Interior,50,2,3815.7,
+82691827,Roadster,Ferrari,Distributor,10,1,8162.46,
+67519199,Compact Car,Tesla,Chassis Bushings,10,6,4887.86,
+52816191,Family Car,Toyota,Blind Spot Monitoring,10,3,5637.34,
+90700656,Family Car,McLaren,Wheel Spacer,5,8,9368.43,
+53756042,Hybrid Car,McLaren,Cylinder Head,20,6,4964.27,
+57440138,Hatchback,Mazda,Brake Master Cylinder,10,1,9905.96,
+44976239,Sedan,Maserati,Rack and Pinion,15,3,5363.03,
+67065970,City Car,Chrysler,Intake Manifold,10,1,5038.46,
+67259246,City Car,Alfa Romeo,CV Joints,10,4,6873.34,
+53234819,Buggy,Saturn,Electrical System,25,8,6273.18,
+17699662,Pickup Truck,GMC,Ignition Coil,5,10,5923.74,
+17787374,Family Car,Mazda,Sway Bars,10,4,8696.58,
+18030354,Compact SUV,Smart,Tire Valve Cap,5,4,8765.0,
+14626757,Estate Car,Lotus,Tire Pressure Monitoring System (TPMS),10,2,3303.09,
+29596660,Ice Cream Truck,Lamborghini,Quarter Panels,30,9,5270.45,
+95556212,Van,Maybach,Tires,25,10,8168.0,
+22911687,Grand Tourer,Genesis,Control Arms,15,9,3222.95,
+81758854,Garbage Truck,Lamborghini,Side Skirts,20,3,7837.2,
+52412622,Van,Maybach,Tire Patch,5,4,6707.19,
+26439502,Minivan,Infiniti,Wheel Bearings,10,10,4467.41,
+88326305,City Car,Mitsubishi,Bluetooth System,10,1,9490.62,
+74715415,Police Car,Bugatti,Hub Assembly,15,3,3121.66,
+76897802,Limousine,Karma,Airbag Control Module,5,5,6013.21,
+30652369,Full-Size SUV,Mitsubishi,Camshaft Position Sensor,5,3,7070.2,
+70748899,Grand Tourer,Chrysler,Wheel Cover,5,10,9881.51,
+79612557,Taxi,Tesla,Axle Shaft Bearings,10,1,9626.23,
+48482985,Station Wagon,Buick,Chassis,200,7,7540.28,
+63549206,Muscle Car,Toyota,Grille,10,8,9056.42,
+81521593,Taxi,Porsche,Steering Shaft,10,4,8208.83,
+73411821,Amphibious Vehicle,Scion,Steering Knuckle,10,4,9473.6,
+18904558,Compact SUV,Dodge,Tires,25,2,6907.07,
+13668657,Hybrid Car,Land Rover,Valves,10,2,7404.87,
+31085388,Full-Size Pickup Truck,Hyundai,Chassis Mounts,10,8,7044.3,
+30969340,Hot Hatch,Bentley,Throttle,10,6,3039.75,
+15534736,Luxury Car,Maserati,Wheel Studs,5,1,8308.29,
+11310063,Full-Size Pickup Truck,Subaru,Axle Shaft Bearings,10,10,3695.74,
+95844685,Electric SUV,Jeep,Traction Control,20,2,6213.72,
+74577337,Commercial Vehicle,Honda,Chassis Stiffeners,15,1,3491.53,
+75726959,Microcar,Tesla,Idler Arm,10,10,5640.41,
+85161866,Muscle Car,Smart,Power Steering Pump,15,10,8409.3,
+34927240,Hot Hatch,Chrysler,Fuel Filter,5,6,4157.21,
+49748247,Hybrid Car,Karma,Brake Pads,5,8,5190.47,
+99991825,Family Car,Pontiac,Battery,20,5,7766.46,
+85678938,Van,Ford,Ignition Coil,5,5,4751.11,
+79351703,Hatchback,Mercedes-Benz,Heated Seats,30,4,4802.67,
+31660377,Hearse,Alfa Romeo,Lights,10,6,8151.09,
+92285869,Hearse,Kia,Torque Converter,10,8,6678.88,
+91023668,Muscle Car,Subaru,Exhaust Pipes,10,1,3091.89,
+38254604,Ice Cream Truck,Dodge,Axle Seals,5,1,5469.77,
+86549409,Station Wagon,Dodge,Pressure Plate,10,8,4676.49,
+55859156,Pickup Truck,Hummer,Lug Wrench,5,4,3911.05,
+92922779,Convertible,Maserati,Chassis Braces,20,2,8601.35,
+17596200,Hearse,Ford,Bushings,5,6,7735.57,
+17479869,Compact Car,Ferrari,Oil Filter,5,9,9230.8,
+31390895,Pickup Truck,Volvo,Wheel Cylinder,5,10,6824.78,
+12930016,SUV,Oldsmobile,Steering Wheel,15,4,5319.94,
+32904464,Garbage Truck,Alfa Romeo,Tire Repair Kit,10,10,5842.78,
+44362063,Police Car,Subaru,Intake Manifold,10,8,4528.51,
+82211364,Coupe,Bentley,Planetary Gearset,20,4,8025.0,
+88553076,Van,Lincoln,Differential Gears,20,10,9577.99,
+47194888,Station Wagon,Ferrari,Ball Joints,10,3,7164.55,
+11576074,Off-Road Vehicle,Chrysler,Control Arms,15,7,5684.15,
+69702044,Compact Car,Buick,Stub Axle,0,2,9411.94,
+97475865,Van,Honda,Tire Chains Tensioners,10,5,9857.4,
+61766102,City Car,Hummer,Steering Knuckles,10,4,8004.91,
+51455806,Garbage Truck,Scion,Gearshift,10,10,7395.84,
+51807805,Full-Size SUV,Cadillac,Brake Shoes,10,8,3918.98,
+31844265,Sports Car,Cadillac,Shocks,10,10,7501.61,
+14030472,Muscle Car,Hummer,Hub Seal,5,9,3553.89,
+62217998,Garbage Truck,Mazda,Control Arms,15,3,9215.37,
+75874179,Compact Pickup Truck,Karma,Chassis,200,9,4952.22,
+35836216,Amphibious Vehicle,Jeep,Fuel Injector,5,7,8177.22,
+51848426,Hybrid Car,MINI,Wheel Lugs,5,10,3756.36,
+92813930,Station Wagon,Volvo,Tire Plug,5,10,6775.35,
+60093957,Station Wagon,Pontiac,Hub Gasket,5,10,3722.16,
+76689343,Ice Cream Truck,Ferrari,Chassis Reinforcements,30,6,7247.06,
+84796580,Police Car,GMC,Door Handles,5,6,7843.46,
+12478303,Compact SUV,Hummer,USB Ports,5,9,9588.72,
+75820840,Roadster,Oldsmobile,Bushings,5,10,9430.75,
+97965927,Garbage Truck,Porsche,Immobilizer,5,7,6359.34,
+64267587,Electric Vehicle (EV),Rolls-Royce,Wheel Bearings,10,10,8654.95,
+25744436,Fire Truck,Suzuki,Wheel Bearings,10,4,4289.06,
+66431331,City Car,Saturn,USB Ports,5,10,6500.51,
+17169020,Concept Car,Buick,Axle Shaft Bearings,10,2,5827.25,
+81494979,Full-Size SUV,Hyundai,Drag Link,10,4,5083.38,
+23920893,Executive Car,Acura,Brake Rotors,10,9,5120.33,
+38043208,Limousine,Hummer,Oxygen Sensor,5,10,5493.76,
+68999693,Buggy,Saab,Power Steering Hoses,5,9,9219.0,
+57250500,Coupe,Jeep,Struts,15,5,3703.22,
+22427588,Muscle Car,Toyota,Ball Joints,10,3,3591.06,
+33532119,Armored Car,Genesis,Power Steering Fluid,5,10,4440.07,
+42487971,Subcompact Car,Lexus,Roof,50,3,4901.56,
+54643584,Family Car,Ram,Quarter Panels,30,3,8173.47,
+13198443,Limousine,Mercedes-Benz,Chassis Bushings,10,4,8129.7,
+16710676,Luxury SUV,Jeep,Quarter Panels,30,4,8829.27,
+65336100,City Car,Polestar,Catalytic Converter,15,1,7629.41,
+10583309,Ice Cream Truck,Alfa Romeo,Oil Pan,10,6,7206.11,
+48843846,Subcompact Car,GMC,Wheel Cylinder,5,10,5532.24,
+11672845,Muscle Car,Subaru,Steering Column,10,8,7135.62,
+62933475,Executive Car,Audi,Auxiliary Input,5,4,9875.07,
+89207606,Station Wagon,Fiat,Intake Manifold,10,5,7523.17,
+81835457,Grand Tourer,Ram,Traction Control,20,3,8055.25,
+92942760,Taxi,Karma,Hood,30,5,8063.8,
+61726966,Supercar,Polestar,Safety Features,50,10,9102.82,
+99244509,Van,Maserati,Brake Lines,5,6,5683.37,
+81922139,Compact SUV,Volkswagen,Oil Pump,10,4,5505.11,
+62782014,Compact Pickup Truck,Subaru,Intake Air Temperature Sensor,5,5,4334.65,
+59056894,Limousine,Maserati,MAP Sensor,5,7,4705.64,
+14926327,Off-Road Vehicle,Oldsmobile,Throttle Position Sensor,5,2,3785.73,
+59081642,Crossover,Bentley,Brake Calipers,10,9,6844.46,
+95565671,Grand Tourer,Porsche,Wheels,20,10,7371.28,
+59041659,City Car,Genesis,Ignition System,10,9,8532.52,
+56251480,City Car,Saturn,Side Skirts,20,1,5408.16,
+76661856,Vintage Car,Hyundai,Pitman Arm,10,5,7680.39,
+58632458,City Car,Pontiac,Stability Control,20,9,5163.14,
+74119569,4x4,Acura,Axles,20,4,7841.59,
+42301313,Garbage Truck,Karma,Axles,20,2,6074.26,
+63734655,Ambulance,Chrysler,Brake Shoes,10,1,3826.26,
+22316336,Compact Car,Tesla,Intake Air Temperature Sensor,5,3,6874.69,
+66280962,Compact Pickup Truck,MINI,Audio System,15,3,8237.43,
+36782710,Convertible,Cadillac,Camshaft,10,9,4033.47,
+70236958,Van,BMW,Airbags,20,8,8310.29,
+13633932,Sedan,Jaguar,Valves,10,5,9636.3,
+74880668,Concept Car,Land Rover,Hub Seal,5,8,8685.45,
+67164549,Compact Pickup Truck,Aston Martin,Camshaft,10,8,3203.65,
+67075228,Electric Vehicle (EV),Mercedes-Benz,CV Joints,10,10,3740.36,
+88660441,Compact Pickup Truck,Volvo,Axle Shafts,15,6,5727.79,
+44517036,Ambulance,BMW,Power Steering Pump,15,8,9409.99,
+38694756,Compact SUV,Jeep,Interior,50,9,3349.77,
+61797953,Sedan,Suzuki,Halfshafts,15,1,5720.13,
+68200350,Full-Size Pickup Truck,Smart,Backup Camera,10,7,6487.33,
+25552904,Van,McLaren,Fuel Filter,5,3,4650.53,
